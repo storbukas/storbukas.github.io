@@ -8,6 +8,7 @@ This site has various pages covering topics such as technology, programming and 
 > n. [proh-gram-er]
 > an organism that turns caffeine and pizza into code
 
+------
 
 ## [](#technology)Technology
 
@@ -33,7 +34,7 @@ This section covers topics which doesn't fit into any of the above sections.
 
 _There's currently no content in this section_
 
-
+------
 
 ```
 This page is under development.
