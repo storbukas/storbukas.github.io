@@ -14,7 +14,8 @@ This site has various pages covering topics such as technology, programming and 
 
 This section covers various technological topics (Linux, OS X, OpenWRT, etc.).
 
-[Software recommendations for Mac OS X](mac)
+[Software recommendations for Mac OS X](mac-software)
+[Tips and tricks for Mac OS X](mac-tips-and-tricks)
 
 ## [](#programming)Programming
 
