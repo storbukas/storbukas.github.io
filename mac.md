@@ -8,167 +8,167 @@ layout: default
 ---
 -
 
-###Deluge
+### [](#technology)Deluge
 ---
 -
 
-###VirtualBox
+### [](#technology)VirtualBox
 ---
 -
 
-###Todoist
+### [](#technology)Todoist
 ---
 -
 
-###FreeChat for Facebook Messenger
+### [](#technology)FreeChat for Facebook Messenger
 ---
 -
 
-###Endpoint Security VPN
+### [](#technology)Endpoint Security VPN
 ---
 -
 
-###NoMAD
+### [](#technology)NoMAD
 ---
 -
 
-###Docker and Kitematic
+### [](#technology)Docker and Kitematic
 ---
 -
 
-###GIMP
+### [](#technology)GIMP
 ---
 -
 
-###Inkscape
+### [](#technology)Inkscape
 ---
 -
 
-###OmniDiskSweeper
+### [](#technology)OmniDiskSweeper
 ---
 -
 
-###NameChanger
+### [](#technology)NameChanger
 ---
 -
 
-###AppCleaner
+### [](#technology)AppCleaner
 ---
 -
 
-###Atom
+### [](#technology)Atom
 ---
 -
 
-###FileZilla
+### [](#technology)FileZilla
 ---
 -
 
-###TextWrangler
+### [](#technology)TextWrangler
 ---
 -
 
-###Wireshark
+### [](#technology)Wireshark
 ---
 -
 
-###Postman
+### [](#technology)Postman
 ---
 -
 
-###Dash
+### [](#technology)Dash
 ---
 -
 
-###Gitkraken / Github App
+### [](#technology)Gitkraken / Github App
 ---
 -
 
-###Slack
+### [](#technology)Slack
 ---
 -
 
-###The Unarchiver
+### [](#technology)The Unarchiver
 ---
 -
 
-###LastPass
+### [](#technology)LastPass
 ---
 -
 
-###CCleaner
+### [](#technology)CCleaner
 ---
 -
 
-###Alfred
+### [](#technology)Alfred
 ---
 -
 
-###Sophos Home
+### [](#technology)Sophos Home
 ---
 -
 
-###CheatSheet
+### [](#technology)CheatSheet
 ---
 -
 
-###Keypad
+### [](#technology)Keypad
 ---
 -
 
-###AirServer
+### [](#technology)AirServer
 ---
 -
 
-###Moom
+### [](#technology)Moom
 ---
 -
 
-###Contexts
+### [](#technology)Contexts
 ---
 -
 
-###Google Photos Backup
+### [](#technology)Google Photos Backup
 ---
 -
 
-###Little Snitch and Micro Snitch
+### [](#technology)Little Snitch and Micro Snitch
 ---
 -
 
-###Dropzone
+### [](#technology)Dropzone
 ---
 -
 
-###CD to
+### [](#technology)CD to
 ---
 -
 
-###NordVPN
+### [](#technology)NordVPN
 ---
 -
 
-###Itsycal
+### [](#technology)Itsycal
 ---
 -
 
-###Amphetamin
+### [](#technology)Amphetamin
 ---
 -
 
-###Hazel
+### [](#technology)Hazel
 ---
 -
 
-###Magic Keys
+### [](#technology)Magic Keys
 ---
 -
 
-###iTerm
+### [](#technology)iTerm
 ---
 -
 
-###Fish
+### [](#technology)Fish
 ---
 -
 
