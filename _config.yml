@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Storbukås
-show_downloads: true
+description: Technology, programming and electronics
+show_downloads: false
