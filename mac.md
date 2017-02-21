@@ -4,7 +4,7 @@ layout: default
 
 ## Software recommendations for Mac OS X
 
-###Google Chrome
+### [](#technology)Google Chrome
 ---
 -
 
